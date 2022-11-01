@@ -1,0 +1,49 @@
+<ImportMXDLog>	<Messages>
+		<FileName>K:\DataServices\Projects\Current_Projects\Municipal_Vulnerability_Preparedness\Carlisle\Project_files\Carlisle_freshwater.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Selection layers are not supported</Description>
+			<Code>00025</Code>
+			<ComponentName>Commuter Rail Stations</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Selection layers are not supported</Description>
+			<Code>00025</Code>
+			<ComponentName>MBTA Station Labels</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Selection layers are not supported</Description>
+			<Code>00025</Code>
+			<ComponentName>MBTA Stations</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Legends imported into ArcGIS Pro may appear differently due to improvements in the fitting strategy and changes made to legend patch shapes. Modifications to the default appearance may be required.</Description>
+			<Code>20038</Code>
+			<ComponentName>Carlisle_freshwater</ComponentName>
+			<ComponentType>Layout</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Due to the differences between mxds and projects, some dynamic text tags may have changed during the import process.</Description>
+			<Code>20044</Code>
+			<ComponentName>Carlisle_freshwater</ComponentName>
+			<ComponentType>Layout</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>
